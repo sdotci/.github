@@ -1,4 +1,4 @@
-<img align="left" title="S" src="https://github.com/sdotci/art/blob/HEAD/logo.svg?raw=true" alt="S" height="200"/>
+<img align="left" title="S" src="https://github.com/sdotci/art/blob/HEAD/logo.svg?raw=true" alt="S" height="180"/>
 
 ### Hey there! 👋 Welcome to [<img src="https://github.com/sdotci/art/blob/HEAD/favicon.svg?raw=true" alt="S" title="S" height="16"/>](https://s.ci)
 
